@@ -1,0 +1,44 @@
+OBJECTIVES.
+__________________________
+
+                         * PC = THE BOY(PC)WILL BE MOVING IN ALL THE DIRECTIONS BY PRESSING A SPECIFIC KEY .
+
+
+                  * NPC =  THE ANIMALS(NPC)WILL BE MOVING IN X AND Y DIRECTION FASTLY.
+
+___________________________________________________________________________________________________________________________________________
+
+TASKS TO BE COMPLETED BY THE PLAYER.
+___________________________________________________________________________________
+
+ 1. CREATE A SPRITE CALLED BOY.
+ 2.GIVE BACKGROUND COLOUR.
+ 3.MAKE THE PLAYER  MOVE BY CLICKING SPECIFIC KEY.
+4.GIVE X AND Y VELOCITY.
+5.IF UP ARROW IS PRESS MAKE THE PLAYER MOVE UP.
+6.IF DOWN ARROW IS PRESSED PLAYER SHOULD MOVE DOWN.
+7.IF LEFT AROOW IS PRESSED PLAYER SHOUD MOVE LEFT.
+8.IF RIGHT ARROW IS PRESSED  PLAYER SHOULD MOVE RIGHT.
+9.PLAYER SHOULD REACH HIS FAMILY ON THE TOP RIGHT CORNER.
+10. IF THE PLAYER REACHED HIS FAMILY THE GAME IS WON BY THE PC.
+
+___________________________________________________________________________________________________________________________________________
+
+TASKS TO BE COMPLETED BY THE NPC.
+____________________________________________________________________________
+
+1.CREATE A DOG SPRITE.
+2.CREATE A SNAKE SPRITE.
+3. CREATE A LION SPRITE.
+4.CREATE A TIGER SPRITE.
+5.CREATE A MONKEY SPRITE.
+6 .GIVE  VELOCITY X AND Y FOR ALL THE ANIMALS.
+7.IF THE ANIMAL TOUCHES THE PC THE GAME IS WON BY NPC.
+___________________________________________________________________________________________________________________________________________
+
+GOAL OF THE GAME.
+_______________________________________ 
+
+ MAKE THE PLAYER REACH HIS FAMILY.
+___________________________________________________________________________________________________________________________________________
+                                                         GOOD LUCK!!!
